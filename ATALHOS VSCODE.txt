@@ -1,0 +1,20 @@
+Copiar linha: 
+SHIFT + ALT + (seta)
+
+Mover linha: 
+ALT (seta)
+
+Apagar uma linha: 
+CTRL + SHIFT + K
+
+Procurar palavras iguais (elas já ficam destacadas mas isso é pra ir direto pra onde elas estão):
+CTRL + D
+
+Para fazer uma multi seleção: (tipo CTRL + CLIQUE so que no VS Code):
+ALT + CLIQUE
+
+Zen Mode:
+CTRL + K Z (em sequencia, rápido) (pra sair aperta ESC 2x)
+
+Ver lista de atalhos:
+CTRL + K CTRL + S (é um, depois o outro)
