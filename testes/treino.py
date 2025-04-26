@@ -1,2 +1,3 @@
-v = memoryview(b'abcdefg')
-print(v)
+import rich
+
+print('[red]Ooi[/red]')
